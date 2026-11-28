@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Your photos and generated scans (keep the folders, not the files)
+**/samples/*
+**/outputs/*
+!**/samples/.gitkeep
+!**/outputs/.gitkeep
+
+# Large media (the small demo.gif in docs/ is fine)
+*.mp4
+*.mov
+*.avi
+
+# Secrets: never commit these
+.env
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
