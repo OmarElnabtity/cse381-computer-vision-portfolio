@@ -2,7 +2,7 @@
 
 Turns a phone photo of a page or ID card, taken at an angle, into a flat, clean "scanned" image, the CamScanner problem, solved with classical computer vision (no deep learning). It finds the four corners of the page, flattens the perspective with a homography, and applies adaptive thresholding so shadows and uneven lighting don't ruin the result. It is useful for digitizing notes, documents and Arabic textbook pages.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<username>/<repo-name>/blob/main/Tier1_Foundational/01_Document_ID_Scanner/Document_ID_Scanner.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarElnabtity/computer-vision-portfolio/blob/main/Tier1_Foundational/01_Document_ID_Scanner/Document_ID_Scanner.ipynb)
 
 ![demo](docs/demo.gif)
 
