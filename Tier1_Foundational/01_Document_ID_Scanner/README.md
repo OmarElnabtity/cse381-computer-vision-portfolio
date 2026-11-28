@@ -55,12 +55,12 @@ Every step has a few settings at the top of its notebook cell (also at the top o
 
 ```
 01_Document_ID_Scanner/
-├── Document_ID_Scanner.ipynb   # the pipeline, one cell per step
-├── main.py                     # same pipeline as a command-line script
+├── Document_ID_Scanner.ipynb
+├── main.py
 ├── requirements.txt
-├── samples/                    # put your own photo here (not committed)
-├── outputs/                    # finished scans are saved here (not committed)
-└── docs/                       # demo.gif
+├── samples/
+├── outputs/
+└── docs/
 ```
 
 ## Privacy note
